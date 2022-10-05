@@ -23,7 +23,7 @@ def Run():
         if bit == '64bit':
             print("\x1b[1;92m[•] Congratulations ! Your Device Support this Tools")
             print('[•] Join Over Facebook Group First')
-            os.system('xdg-open https://www.facebook.com/mhfuhad887) 
+            os.system('xdg-open https://www.facebook.com/mhfuhad887') 
             import FuhaD
         else:
             exit('\033[1;31m[×] Sorry, Your Device Not Support This Tool')
